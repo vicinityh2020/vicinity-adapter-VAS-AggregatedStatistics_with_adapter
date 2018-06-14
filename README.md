@@ -1,0 +1,1 @@
+# vicinity-adapter-VAS-AggregatedStatistics_with_adapter
