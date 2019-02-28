@@ -1,0 +1,14 @@
+{
+    "adapter-id": "adapter3.2.3",
+    "thing-descriptions":
+            [{
+                    "name": "VAS 3.2.3 - Aggregated Statistics",
+                    "type": "core:Service",
+                    "version": "0.0.1",
+                    "oid": "vas3.2.3",
+                    "properties": [],
+                    "actions": [],
+                    "events": []
+                }
+            ]
+}

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: mkoutli
+Build-Jdk: 1.8.0_191
+Created-By: Maven Integration for Eclipse
+Main-Class: vicinity.adapter.services.VCNT_Adapter_AbnormalDetection.A
+ pp
+
